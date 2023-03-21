@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>921274923536-piqrnu9evkismooj77028b6vd7gdi6fr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.921274923536-piqrnu9evkismooj77028b6vd7gdi6fr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCxHfGacY_h47x2XJE88YqrJ8PNhPn4JN0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>921274923536</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.poraLekha</string>
+	<key>PROJECT_ID</key>
+	<string>pora-lekha-65fd6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pora-lekha-65fd6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:921274923536:ios:4791d457c273d348e86895</string>
+	<key>DATABASE_URL</key>
+	<string>https://pora-lekha-65fd6-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

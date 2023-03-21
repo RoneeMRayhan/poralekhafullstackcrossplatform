@@ -1,0 +1,9 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/roneemrayhan/.pub-cache/hosted/pub.dev/cloud_firestore-4.3.0/
+cloud_firestore_web=/Users/roneemrayhan/.pub-cache/hosted/pub.dev/cloud_firestore_web-3.2.0/
+firebase_auth=/Users/roneemrayhan/.pub-cache/hosted/pub.dev/firebase_auth-4.2.2/
+firebase_auth_web=/Users/roneemrayhan/.pub-cache/hosted/pub.dev/firebase_auth_web-5.2.2/
+firebase_core=/Users/roneemrayhan/.pub-cache/hosted/pub.dev/firebase_core-2.4.0/
+firebase_core_web=/Users/roneemrayhan/.pub-cache/hosted/pub.dev/firebase_core_web-2.0.2/
+firebase_storage=/Users/roneemrayhan/.pub-cache/hosted/pub.dev/firebase_storage-11.0.9/
+firebase_storage_web=/Users/roneemrayhan/.pub-cache/hosted/pub.dev/firebase_storage_web-3.3.18/
